@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+i{
+  cursor: pointer;
+}
+i.del:hover{
+  color: red;
+}
+i.update:hover{
+  color: blue;
+}
